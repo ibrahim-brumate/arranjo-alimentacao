@@ -1,3 +1,9 @@
+<style>
+.force-word-wrap pre code {
+   white-space: normal;
+   word-wrap: break-word;
+}
+</style>
 # Arranjo de Alimentação Reforma Sacomã SP22
 
 > Este documento serve para orientar as voluntárias sobre dúvidas básicas que possam ter.  
@@ -30,6 +36,8 @@ Indice de perguntas:
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
 
 * [Mas e se eu quiser ajudar, da tempo de dar meu nome?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#mas-e-se-eu-quiser-ajudar-da-tempo-de-dar-meu-nome)
+
+<div class="force-word-wrap">
 
 ### Quando começa o arranjo da cozinha?
 ```
@@ -169,3 +177,4 @@ fale com uma das voluntárias para que
 elas informem a um dos responsáveis
 pelo arranjo.
 ```
+</div>
