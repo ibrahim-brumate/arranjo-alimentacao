@@ -2,7 +2,34 @@
 
 > Este documento serve para orientar as voluntárias sobre dúvidas básicas que possam ter.  
 Abaixo vão algumas informações importantes que poderão ser consultadas ao longo do  
-arranjo.
+arranjo.  
+Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
+
+**Última atualização deste documento - 29/09/2022**  
+
+Indice de perguntas:
+
+* [Quando começa o arranjo da cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#quando-come%C3%A7a-o-arranjo-da-cozinha)
+
+* [Qual é o horário de funcionamento da cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#qual-%C3%A9-o-hor%C3%A1rio-de-funcionamento-da-cozinha)
+
+* [Aonde fica essa cozinha? Tem transporte público por perto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#aonde-fica-essa-cozinha-tem-transporte-p%C3%BAblico-por-perto)
+
+* [Vou precisar participar da cozinha toda semana?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#vou-precisar-participar-da-cozinha-toda-semana)
+
+* [Por quanto tempo vou precisar apoiar o arranjo?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#por-quanto-tempo-vou-precisar-apoiar-o-arranjo)
+
+* [Já avisei os dias que posso apoiar o arranjo. Preciso avisar de novo?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#j%C3%A1-avisei-os-dias-que-posso-apoiar-o-arranjo-preciso-avisar-de-novo)
+
+* [Precisamos cozinhar para quantas pessoas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#precisamos-cozinhar-para-quantas-pessoas)
+
+* [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
+
+* [E as voluntárias, vão almoçar aonde?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-as-volunt%C3%A1rias-v%C3%A3o-almo%C3%A7ar-aonde)
+
+* [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
+
+* [Mas e se eu quiser ajudar, da tempo de dar meu nome?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#mas-e-se-eu-quiser-ajudar-da-tempo-de-dar-meu-nome)
 
 ### Quando começa o arranjo da cozinha?
 ```
@@ -50,7 +77,7 @@ Não, se você já avisou um dos responsáveis os dias que pode participar do ar
 sabemos que dias poderemos contar com seu apoio.
 ```
 
-### Precisamos fazer comida para quantas pessoas?
+### Precisamos cozinhar para quantas pessoas?
 ```
 Foi previsto comida para a equipe de construção que no momento é de 18 pessoas.
 ```
