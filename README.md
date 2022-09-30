@@ -43,13 +43,14 @@ enviada no grupo do WhatsApp.
 
 ### Qual é o horário de funcionamento da cozinha?
 ```
-A cozinha vai funcionar de Terça à Sábado
-das 08:00 as 15:00. As escalas serão
-enviadas no grupo do WhatsApp. Se por
-motivo de força maior não puder comparecer
-no dia escalado pedimos a gentileza de
-informar com antecedência *se for possível*
-que não poderá comparecer no dia designado.
+A cozinha vai funcionar de Terça à
+Sábado das 08:00 as 15:00. As escalas
+serão enviadas no grupo do WhatsApp. Se
+por motivo de força maior não puder
+comparecer no dia escalado pedimos a
+gentileza de informar com antecedência
+*se for possível* que não poderá
+comparecer no dia designado.
 ```
 
 ### Aonde fica essa cozinha? Tem transporte público por perto?
