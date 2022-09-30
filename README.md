@@ -54,7 +54,11 @@ Indice de perguntas:
 >Dúvidas basta falar com um dos responsáveis pelo arranjo.
 
 ### Vou precisar participar da cozinha toda semana?
->Não! Convidamos varias voluntárias justamente para não ficar difícil dar apoio. Por isso a maioria de vocês vai trabalhar semana sim semana não, salvo datas em que temos poucas voluntárias como no meio da semana, ou nos dias em que temos muitas voluntárias como no sábado. Talvez você trabalhe duas semanas seguidas ou talvez demore a trabalhar novamente visto que só pode de sábado e aos sábados temos mais voluntárias disponíveis.
+>Não! Convidamos varias voluntárias justamente para não ficar difícil dar apoio.
+
+>Por isso a maioria de vocês vai trabalhar semana sim semana não, salvo datas em que temos poucas voluntárias como no meio da semana, ou nos dias em que temos muitas voluntárias como no sábado.
+
+>Talvez você trabalhe duas semanas seguidas ou talvez demore a trabalhar novamente visto que só pode de sábado e aos sábados temos mais voluntárias disponíveis.
 
 ### Por quanto tempo vou precisar apoiar o arranjo?
 >A obra está prevista para durar aproximadamente 3 meses. Por isso a cozinha vai funcionar durante todo o período em que a obra estiver em andamento.
