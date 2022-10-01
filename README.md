@@ -81,13 +81,14 @@ Indice de perguntas:
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
 animados para ajudar. Mas para que "todas as coisas ocorram com decência
 e ordem" 1 Coríntios 14:40 pedimos que se você não foi convidado por telefone
-ou pelo builder assistant, não se ofereça para ficar. Mesmo que tenha experiência na área, duas coisas são importantes:
+ou pelo builder assistant, não se ofereça para ficar na cozinha, a menos que tenha sido convidado ou que seja convidado.
+Mesmo que tenha experiência na área, duas coisas são importantes:
 
 1) Tenha a DC50 assinada e com os dados
 atualizados inclusive experiência.
-2) Tenha sido convidado, para que os
-responsáveis saibam que você está
-disponível.
+2) Os responsáveis saibam que você está
+disponível e vai ficar na cozinha no dia
+especificado.
 
 >Agradecemos o apoio e a compreensão de
 todos.
