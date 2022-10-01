@@ -116,7 +116,7 @@ um dos responsáveis pelo arranjo.
 ### Como outros que não foram convidados para a cozinha podem ajudar?
 >Não fique triste se você não foi convidado para ajudar na cozinha querido voluntário(a).
 Betel autorizou que as 15 horas, seja levado ao canteiro de obras um lanche salgado e suco,
-e isso ao longo da obra.
+e isso vai ocorrer enquanto a obra durar.
 
 >Uma maneira de ajudar seria preparando esses lanches e sucos para que a cozinha não fique
 sobrecarregada. Gostou da ideia, informe por favor a uma das voluntárias para que ela possa
