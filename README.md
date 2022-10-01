@@ -123,4 +123,4 @@ sobrecarregada. Gostou da ideia, informe por favor a uma das voluntárias para q
 falar com o responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o
 fim da obra.
 
->Quer saber quantos lanches mandar? Leia a resposta a pergunta [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
+>Quer saber quantos lanches mandar? Leia a resposta as perguntas [Precisamos cozinhar para quantas pessoas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#precisamos-cozinhar-para-quantas-pessoas) e [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
