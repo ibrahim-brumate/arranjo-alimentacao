@@ -33,7 +33,7 @@ Indice de perguntas:
 * [Mas e se eu quiser ajudar, da tempo de dar meu nome?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#mas-e-se-eu-quiser-ajudar-da-tempo-de-dar-meu-nome)
 
 ### Quando começa o arranjo da cozinha?
->Algumas voluntárias vão começar a partir do dia 05/10/2022.
+>Algumas voluntárias vão começar a partir do dia 06/10/2022.
 
 >Outra turma de voluntárias vão começar a partir do dia 11/10/2022.
 
