@@ -108,10 +108,14 @@ Mesmo assim agradecemos muito por se oferecer para este privilégio.
 >Se quiser dar seu nome, fale com uma das voluntárias para que elas informem a
 um dos responsáveis pelo arranjo.
 
-### Fiquei triste, gostaria muito de ajudar mas não fui convidado(a). O que posso fazer?
->Não fique triste querido voluntário(a). Betel autorizou que as 15 horas, seja levado ao
-canteiro de obras um lanche salgado e suco, e isso ao longo da obra. Uma maneira de ajudar
-seria preparando esses lanches e sucos para que a cozinha não fique sobrecarregada.
-Gostou da ideia, informe por favor a uma das voluntárias para que ela possa falar com o
-responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o fim da obra.
-Quer saber quantos lanches mandar? Leia a resposta a pergunta [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
+### Como outros que não foram convidados para a cozinha podem ajudar?
+>Não fique triste se você não foi convidado para ajudar na cozinha querido voluntário(a).
+Betel autorizou que as 15 horas, seja levado ao canteiro de obras um lanche salgado e suco,
+e isso ao longo da obra.
+
+>Uma maneira de ajudar seria preparando esses lanches e sucos para que a cozinha não fique
+sobrecarregada. Gostou da ideia, informe por favor a uma das voluntárias para que ela possa
+falar com o responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o
+fim da obra.
+
+>Quer saber quantos lanches mandar? Leia a resposta a pergunta [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
