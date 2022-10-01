@@ -119,7 +119,7 @@ Betel autorizou que as 15 horas, seja levado ao canteiro de obras um lanche salg
 e isso vai ocorrer enquanto a obra durar.
 
 >Uma maneira de ajudar seria preparando esses lanches e sucos para que a cozinha não fique
-sobrecarregada. Gostou da ideia, informe por favor a uma das voluntárias para que ela possa
+sobrecarregada. Gostou da ideia? Informe por favor a uma das voluntárias para que ela possa
 falar com o responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o
 fim da obra.
 
