@@ -72,10 +72,13 @@ Indice de perguntas:
 >Foi previsto comida para a equipe de construção que no momento é de 18 pessoas.
 
 ### Que refeições serão servidas?
->Foi previsto servir o almoço as 12:00. Depois que todo o almoço for servidor a cozinha precisa ser limpa.
+>Foi previsto servir o almoço as 12:00. O que sobrar do almoço vai ficar de marmita para que os irmãos da construção que desejarem jantem.
+Depois que todo o almoço for servidor a cozinha precisa ser limpa. As 15 horas precisará ser enviado ao canteiro de obras um lanche salgado
+e suco. No entanto este lanche não precisa necessariamente ser preparado pela cozinha. O lanche visa suprir a equipe de construção mas pode ser
+enviado em maior quantidade caso queiram estender o lanche a mais irmãos.
 
 ### E as voluntárias, vão almoçar aonde?
->Elas poderão almoçar no local, e seu almoço será o mesmo que o da equipe de construção.
+>Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
 
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
@@ -104,3 +107,11 @@ Mesmo assim agradecemos muito por se oferecer para este privilégio.
 
 >Se quiser dar seu nome, fale com uma das voluntárias para que elas informem a
 um dos responsáveis pelo arranjo.
+
+### Fiquei triste, gostaria muito de ajudar mas não fui convidado(a). O que posso fazer?
+>Não fique triste querido voluntário(a). Betel autorizou que as 15 horas, seja levado ao
+canteiro de obras um lanche salgado e suco, e isso ao longo da obra. Uma maneira de ajudar
+seria preparando esses lanches e sucos para que a cozinha não fique sobrecarregada.
+Gostou da ideia, informe por favor a uma das voluntárias para que ela possa falar com o
+responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o fim da obra.
+Quer saber quantos lanches mandar? Leia a resposta a pergunta [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
