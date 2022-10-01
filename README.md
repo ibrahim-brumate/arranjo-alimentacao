@@ -32,6 +32,8 @@ Indice de perguntas:
 
 * [Mas e se eu quiser ajudar, da tempo de dar meu nome?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#mas-e-se-eu-quiser-ajudar-da-tempo-de-dar-meu-nome)
 
+* [Como outros que não foram convidados para a cozinha podem ajudar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-outros-que-n%C3%A3o-foram-convidados-para-a-cozinha-podem-ajudar)
+
 ### Quando começa o arranjo da cozinha?
 >Algumas voluntárias vão começar a partir do dia 06/10/2022.
 
@@ -74,8 +76,11 @@ Indice de perguntas:
 ### Que refeições serão servidas?
 >Foi previsto servir o almoço as 12:00. O que sobrar do almoço vai ficar de marmita para que os irmãos da construção que desejarem jantem.
 Depois que todo o almoço for servidor a cozinha precisa ser limpa. As 15 horas precisará ser enviado ao canteiro de obras um lanche salgado
-e suco. No entanto este lanche não precisa necessariamente ser preparado pela cozinha. O lanche visa suprir a equipe de construção mas pode ser
-enviado em maior quantidade caso queiram estender o lanche a mais irmãos.
+e suco. 
+
+>No entanto este lanche não precisa necessariamente ser preparado pela cozinha. O lanche visa suprir a equipe de construção mas pode ser
+enviado em maior quantidade caso queiram estender o lanche a mais irmãos. Leia a resposta a pergunta [Como outros que não foram convidados para a cozinha podem ajudar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-outros-que-n%C3%A3o-foram-convidados-para-a-cozinha-podem-ajudar) para 
+saber como o lanche pode ser provido de forma a não sobrecarregar a cozinha.
 
 ### E as voluntárias, vão almoçar aonde?
 >Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
