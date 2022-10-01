@@ -72,9 +72,7 @@ Indice de perguntas:
 >Foi previsto comida para a equipe de construção que no momento é de 18 pessoas.
 
 ### Que refeições serão servidas?
->Foi previsto servir o almoço. Talvez tenha um lanche para o período da tarde.
-
->Assim que obtivermos a informação concreta sobre o lanche da tarde informaremos.
+>Foi previsto servir o almoço as 12:00. Depois de todo o almoço for servidor a cozinha precisa ser limpa.
 
 ### E as voluntárias, vão almoçar aonde?
 >Elas poderão almoçar no local, e seu almoço será o mesmo que o da equipe de construção.
