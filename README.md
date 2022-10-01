@@ -100,9 +100,8 @@ sim anotar seu nome, mas tenha em mente que se você está lendo isso, já faz
 parte de um arranjo que está organizado para que tenham voluntários todos os
 dias.
 
->Por isso pode ser que você não seja chamado de imediato para trabalhar na
-cozinha da obra ou até mesmo que não seja chamado. Mesmo assim agradecemos
-muito por se oferecer para este privilégio.
+>Por isso dar o nome não é garantia de que será chamado para ajudar na cozinha.
+Mesmo assim agradecemos muito por se oferecer para este privilégio.
 
->Se ainda assim quiser dar seu nome, fale com uma das voluntárias para que
-elas informem a um dos responsáveis pelo arranjo.
+>Se quiser dar seu nome, fale com uma das voluntárias para que elas informem a
+um dos responsáveis pelo arranjo.
