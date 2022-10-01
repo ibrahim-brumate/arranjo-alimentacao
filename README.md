@@ -26,6 +26,8 @@ Indice de perguntas:
 
 * [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
 
+* [O que vamos cozinhar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
+
 * [E as voluntárias, vão almoçar aonde?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-as-volunt%C3%A1rias-v%C3%A3o-almo%C3%A7ar-aonde)
 
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
@@ -84,6 +86,9 @@ saber como o lanche pode ser provido de forma a não sobrecarregar a cozinha.
 
 ### E as voluntárias, vão almoçar aonde?
 >Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
+
+### O que vamos cozinhar?
+>Não se preocupe com isso. O menu do dia bem como os ingredientes para fazê-lo serão fornecidos a vocês para que possam preparar com amor e carinho.
 
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
