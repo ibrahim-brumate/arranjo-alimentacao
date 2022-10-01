@@ -6,7 +6,7 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-**Última atualização deste documento - 29/09/2022**
+**Última atualização deste documento - 01/10/2022**
 
 Indice de perguntas:
 
@@ -61,7 +61,7 @@ Indice de perguntas:
 >Talvez você trabalhe duas semanas seguidas ou talvez demore a trabalhar novamente visto que só pode de sábado e aos sábados temos mais voluntárias disponíveis.
 
 ### Por quanto tempo vou precisar apoiar o arranjo?
->A obra está prevista para durar aproximadamente 3 meses. Por isso a cozinha vai funcionar durante todo o período em que a obra estiver em andamento.
+>A obra está prevista para durar até 31/12/2022. Por isso a cozinha vai funcionar durante todo o período em que a obra estiver em andamento.
 
 >Esperamos que as voluntárias possam ajudar durante o período da obra. Porém se por qualquer motivo não for possível basta informar um dos responsáveis pelo arranjo.
 
