@@ -30,6 +30,10 @@ Indice de perguntas:
 
 * [O que vamos cozinhar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-vamos-cozinhar)
 
+* [O que eu preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-preciso-levar-para-a-cozinha)
+
+* [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-preciso-levar-para-a-cozinha)
+
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
 
 * [Como outros que não foram convidados para a cozinha podem ajudar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-outros-que-n%C3%A3o-foram-convidados-para-a-cozinha-podem-ajudar)
