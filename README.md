@@ -36,7 +36,7 @@ Indice de perguntas:
 
 * [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
 
-* [E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?]()
+* [E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-se-aconteceu-um-acidente-um-corte-queimadura-ou-queda-devo-continuar-cozinhando)
 
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
 
@@ -107,7 +107,7 @@ deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele po
 a substituição da voluntária que está doente.
 
 ### E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?
->É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vem em primeiro lugar. O serviço deve ser interrompido e a pessoa levada imediatamente a um hospital ou pronto socorro.
+>É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vem em primeiro lugar. A pessoa não deve continuar trabalhando mas sim ser levada imediatamente a um hospital ou pronto socorro.
 
 >Também todos os acidentes ou *quase* acidentes precisam ser relatados a um dos responsáveis, não visando penalisar a voluntária, mas sim melhorar o processo de segurança na cozinha.
 
