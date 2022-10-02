@@ -34,6 +34,8 @@ Indice de perguntas:
 
 * [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-n%C3%A3o-preciso-levar-para-a-cozinha)
 
+* [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
+
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
 
 ### Quando começa o arranjo da cozinha?
@@ -97,6 +99,11 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 ### O que eu não preciso levar para a cozinha?
 >Não será necessário levar panos de prato, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente.
 
+### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
+>Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
+deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele possa providenciar
+a substituição da voluntária que está doente.
+
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
 animados para ajudar. Mas para que "todas as coisas ocorram com decência
@@ -113,8 +120,3 @@ especificado.
 um dos responsáveis pelo arranjo.
 
 >Agradecemos o apoio e a compreensão de todos.
-
-### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
->Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
-deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele possa providenciar
-a substituição da voluntária que está doente.
