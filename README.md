@@ -78,12 +78,7 @@ Indice de perguntas:
 Será uma média de 17 a 20 marmitas prontas até as 11:00 para que 12:00 o almoço possa ser servido. E 10 Marmitas para ficar na geladeira e
 os irmãos que desejarem jantar se sirvam.
 
->Depois que todo o almoço for servidor a cozinha precisa ser limpa. As 15 horas precisará ser enviado ao canteiro de obras um lanche salgado
-e suco. 
-
->No entanto este lanche não precisa necessariamente ser preparado pela cozinha. O lanche visa suprir a equipe de construção mas pode ser
-enviado em maior quantidade caso queiram estender o lanche a mais irmãos. Leia a resposta a pergunta [Como outros que não foram convidados para a cozinha podem ajudar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-outros-que-n%C3%A3o-foram-convidados-para-a-cozinha-podem-ajudar) para 
-saber como o lanche pode ser provido de forma a não sobrecarregar a cozinha.
+>Depois que todo o almoço for servidor a cozinha precisa ser limpa.
 
 ### E as voluntárias, vão almoçar aonde?
 >Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
@@ -124,4 +119,4 @@ sobrecarregada. Gostou da ideia? Informe por favor a uma das voluntárias para q
 falar com o responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o
 fim da obra.
 
->Quer saber quantos lanches mandar? Leia a resposta as perguntas [Precisamos cozinhar para quantas pessoas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#precisamos-cozinhar-para-quantas-pessoas) e [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
+>Quer saber quantos lanches mandar? Leia a resposta as perguntas [Precisamos cozinhar para quantas pessoas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#precisamos-cozinhar-para-quantas-pessoas)
