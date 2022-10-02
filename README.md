@@ -32,11 +32,9 @@ Indice de perguntas:
 
 * [O que eu preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-preciso-levar-para-a-cozinha)
 
-* [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-preciso-levar-para-a-cozinha)
+* [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-n%C3%A3o-preciso-levar-para-a-cozinha)
 
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
-
-* [Como outros que não foram convidados para a cozinha podem ajudar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-outros-que-n%C3%A3o-foram-convidados-para-a-cozinha-podem-ajudar)
 
 ### Quando começa o arranjo da cozinha?
 >Algumas voluntárias vão começar a partir do dia 06/10/2022.
@@ -93,6 +91,12 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 
 >Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdicios.
 
+### O que eu preciso levar para a cozinha?
+>Toucas, luvas, botas e aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
+
+### O que eu não preciso levar para a cozinha?
+>Não será necessário levar panos de prato, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente.
+
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
 animados para ajudar. Mas para que "todas as coisas ocorram com decência
@@ -114,21 +118,3 @@ um dos responsáveis pelo arranjo.
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
 deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele possa providenciar
 a substituição da voluntária que está doente.
-
-### O que eu preciso levar para a cozinha?
->Toucas, luvas, botas e aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
-
-### O que eu não preciso levar para a cozinha?
->Não será necessário levar panos de prato, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente.
-
-### Como outros que não foram convidados para a cozinha podem ajudar?
->Não fique triste se você não foi convidado para ajudar na cozinha querido voluntário(a).
-Betel autorizou que as 15 horas, seja levado ao canteiro de obras um lanche salgado e suco,
-e isso vai ocorrer enquanto a obra durar.
-
->Uma maneira de ajudar seria preparando esses lanches e sucos para que a cozinha não fique
-sobrecarregada. Gostou da ideia? Informe por favor a uma das voluntárias para que ela possa
-falar com o responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o
-fim da obra.
-
->Quer saber quantos lanches mandar? Pode ser a quantidade informada na resposta a pergunta [Precisamos cozinhar para quantas pessoas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#precisamos-cozinhar-para-quantas-pessoas) ou mais. Precisamos apenas evitar de levar muitos lanches em um dia e poucos em outro.
