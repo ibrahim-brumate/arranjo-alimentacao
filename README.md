@@ -6,7 +6,7 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-**Última atualização deste documento - 01/10/2022**
+**Última atualização deste documento - 02/10/2022**
 
 Indice de perguntas:
 
@@ -92,6 +92,8 @@ saber como o lanche pode ser provido de forma a não sobrecarregar a cozinha.
 >Não se preocupe com isso. O menu do dia bem como os ingredientes para fazê-lo serão fornecidos a vocês para que possam preparar com amor e carinho.
 As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser trazer uma sobremesa docê para os irmãos, feita em casa, não há problema.
 
+>Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdicios.
+
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
 animados para ajudar. Mas para que "todas as coisas ocorram com decência
@@ -108,6 +110,9 @@ especificado.
 um dos responsáveis pelo arranjo.
 
 >Agradecemos o apoio e a compreensão de todos.
+
+### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
+>Agradecemos o empenho e o desejo em participar
 
 ### Como outros que não foram convidados para a cozinha podem ajudar?
 >Não fique triste se você não foi convidado para ajudar na cozinha querido voluntário(a).
