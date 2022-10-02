@@ -107,7 +107,7 @@ deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele po
 a substituição da voluntária que está doente.
 
 ### E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?
->É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vem em primeiro lugar. A pessoa não deve continuar trabalhando mas sim ser levada imediatamente a um hospital ou pronto socorro.
+>É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vem em primeiro lugar. Em situações graves, a pessoa não deve continuar trabalhando mas sim ser levada imediatamente a um hospital ou pronto socorro, principalmente se bater a cabeça.
 
 >Também todos os acidentes ou *quase* acidentes precisam ser relatados a um dos responsáveis, não visando penalisar a voluntária, mas sim melhorar o processo de segurança na cozinha.
 
