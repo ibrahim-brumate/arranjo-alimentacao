@@ -92,6 +92,7 @@ saber como o lanche pode ser provido de forma a não sobrecarregar a cozinha.
 
 ### O que vamos cozinhar?
 >Não se preocupe com isso. O menu do dia bem como os ingredientes para fazê-lo serão fornecidos a vocês para que possam preparar com amor e carinho.
+As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser trazer uma sobremesa docê para os irmãos, feita em casa, não há problema.
 
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
