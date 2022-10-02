@@ -82,7 +82,7 @@ Indice de perguntas:
 Será uma média de 17 a 20 marmitas prontas até as 11:00 para que 12:00 o almoço possa ser servido. E 10 Marmitas para ficar na geladeira e
 os irmãos que desejarem jantar se sirvam.
 
->Depois que todo o almoço for servidor a cozinha precisa ser limpa.
+>Depois que todo o almoço for servido, a cozinha precisa ser limpa.
 
 ### E as voluntárias, vão almoçar aonde?
 >Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
