@@ -38,7 +38,7 @@ Indice de perguntas:
 
 * [E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-se-aconteceu-um-acidente-um-corte-queimadura-ou-queda-devo-continuar-cozinhando)
 
-*[Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?]()
+* [Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#quando-o-expediente-da-cozinha-acabar-gostaria-de-ajudar-na-obra-da-reforma-posso-fazer-isso-tamb%C3%A9m)
 
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
 
