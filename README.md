@@ -32,8 +32,6 @@ Indice de perguntas:
 
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
 
-* [Mas e se eu quiser ajudar, da tempo de dar meu nome?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#mas-e-se-eu-quiser-ajudar-da-tempo-de-dar-meu-nome)
-
 * [Como outros que não foram convidados para a cozinha podem ajudar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-outros-que-n%C3%A3o-foram-convidados-para-a-cozinha-podem-ajudar)
 
 ### Quando começa o arranjo da cozinha?
@@ -97,8 +95,7 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
 animados para ajudar. Mas para que "todas as coisas ocorram com decência
-e ordem" 1 Coríntios 14:40 pedimos que se você não foi convidado por telefone
-ou pelo builder assistant, não se ofereça para ficar na cozinha, a menos que tenha sido convidado ou que seja convidado.
+e ordem" 1 Coríntios 14:40 pedimos que um irmão responsável tenha sido a avisado.
 Mesmo que tenha experiência na área, duas coisas são importantes:
 
 1) Tenha a DC50 assinada e com os dados
@@ -107,20 +104,10 @@ atualizados inclusive experiência.
 disponível e vai ficar na cozinha no dia
 especificado.
 
->Agradecemos o apoio e a compreensão de
-todos.
-
-### Mas e se eu quiser ajudar, da tempo de dar meu nome?
->Ter a disposição de ajudar e a DC50 assinada já é um passo e tanto. Podemos
-sim anotar seu nome, mas tenha em mente que se você está lendo isso, já faz
-parte de um arranjo que está organizado para que tenham voluntários todos os
-dias.
-
->Por isso dar o nome não é garantia de que será chamado para ajudar na cozinha.
-Mesmo assim agradecemos muito por se oferecer para este privilégio.
-
 >Se quiser dar seu nome, fale com uma das voluntárias para que elas informem a
 um dos responsáveis pelo arranjo.
+
+>Agradecemos o apoio e a compreensão de todos.
 
 ### Como outros que não foram convidados para a cozinha podem ajudar?
 >Não fique triste se você não foi convidado para ajudar na cozinha querido voluntário(a).
