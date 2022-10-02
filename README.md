@@ -96,10 +96,10 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 >Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdicios.
 
 ### O que eu preciso levar para a cozinha?
->Toucas, luvas, botas e aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
+>Toucas, luvas, botas, aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
 
 ### O que eu não preciso levar para a cozinha?
->Não será necessário levar panos de prato, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente.
+>Não será necessário levar panos de prato, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente. Aventais ou roupas sintéticas oferecem risco maior no caso de um incidente com fogo. Por isso, para sua segurança, não use vestimentas feitas de materiais sintéticos.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
