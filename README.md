@@ -38,6 +38,8 @@ Indice de perguntas:
 
 * [E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-se-aconteceu-um-acidente-um-corte-queimadura-ou-queda-devo-continuar-cozinhando)
 
+*[Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?]()
+
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
 
 ### Quando começa o arranjo da cozinha?
@@ -110,6 +112,11 @@ a substituição da voluntária que está doente.
 >É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vem em primeiro lugar. Em situações graves, a pessoa não deve continuar trabalhando mas sim ser levada imediatamente a um hospital ou pronto socorro, principalmente se bater a cabeça.
 
 >Também todos os acidentes ou *quase* acidentes precisam ser relatados a um dos responsáveis, não visando penalisar a voluntária, mas sim melhorar o processo de segurança na cozinha.
+
+### Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?
+>Pode sim! Precisa apenas ter seus EPI com você, como capacete, óculos, luva, bota apropriada e etc.
+Outros irmãos capacitados com DC50 assinada que desejarem apoiar a **reforma** também poderão vir, principalmente durante a semana, vai ajudar bastante.
+Forneça os dados também deste irmão a um dos responsáveis para que ele possa falar com o coordenador da obra!
 
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
