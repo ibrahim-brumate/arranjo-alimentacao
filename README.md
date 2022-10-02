@@ -107,7 +107,15 @@ um dos responsáveis pelo arranjo.
 >Agradecemos o apoio e a compreensão de todos.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
->Agradecemos o empenho e o desejo em participar
+>Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
+deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele possa providenciar
+a substituição da voluntária que está doente.
+
+### O que eu preciso levar para a cozinha?
+>Toucas, luvas, botas e aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
+
+### O que eu não preciso levar para a cozinha?
+>Não será necessário levar panos de prato, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente.
 
 ### Como outros que não foram convidados para a cozinha podem ajudar?
 >Não fique triste se você não foi convidado para ajudar na cozinha querido voluntário(a).
