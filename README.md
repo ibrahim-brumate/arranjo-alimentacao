@@ -119,4 +119,4 @@ sobrecarregada. Gostou da ideia? Informe por favor a uma das voluntárias para q
 falar com o responsável pelo arranjo, caso queira ajudar regularmente neste arranjo até o
 fim da obra.
 
->Quer saber quantos lanches mandar? Leia a resposta as perguntas [Precisamos cozinhar para quantas pessoas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#precisamos-cozinhar-para-quantas-pessoas)
+>Quer saber quantos lanches mandar? Pode ser a quantidade informada na resposta a pergunta [Precisamos cozinhar para quantas pessoas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#precisamos-cozinhar-para-quantas-pessoas) ou mais. Precisamos apenas evitar de levar muitos lanches em um dia e poucos em outro.
