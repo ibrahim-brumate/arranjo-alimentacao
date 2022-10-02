@@ -73,7 +73,7 @@ Indice de perguntas:
 >Não, se você já avisou um dos responsáveis os dias que pode participar do arranjo, já sabemos que dias podemos contar com seu apoio.
 
 ### Precisamos cozinhar para quantas pessoas?
->Foi previsto comida para a equipe de construção que no momento é de 18 pessoas.
+>Foi previsto comida para a equipe de construção que no momento é de 17 a 20 pessoas.
 
 ### Que refeições serão servidas?
 >Foi previsto servir o almoço as 12:00. O que sobrar do almoço vai ficar de marmita para que os irmãos da construção que desejarem jantem.
