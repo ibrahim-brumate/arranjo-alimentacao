@@ -77,7 +77,10 @@ Indice de perguntas:
 
 ### Que refeições serão servidas?
 >Foi previsto servir o almoço as 12:00. O que sobrar do almoço vai ficar de marmita para que os irmãos da construção que desejarem jantem.
-Depois que todo o almoço for servidor a cozinha precisa ser limpa. As 15 horas precisará ser enviado ao canteiro de obras um lanche salgado
+Será uma média de 17 a 20 marmitas prontas até as 11:00 para que 12:00 o almoço possa ser servido. E 10 Marmitas para ficar na geladeira e
+os irmãos que desejarem jantar se sirvam.
+
+>Depois que todo o almoço for servidor a cozinha precisa ser limpa. As 15 horas precisará ser enviado ao canteiro de obras um lanche salgado
 e suco. 
 
 >No entanto este lanche não precisa necessariamente ser preparado pela cozinha. O lanche visa suprir a equipe de construção mas pode ser
