@@ -6,6 +6,8 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
+* Clique [aqui](https://github.com/ibrahim-brumate/arranjo-alimentacao/blob/master/seguranca.md) e veja alguns lembretes importantes para sua segurança!
+
 **Última atualização deste documento - 04/10/2022**
 
 Indice de perguntas:
