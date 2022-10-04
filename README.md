@@ -6,7 +6,7 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-**Última atualização deste documento - 02/10/2022**
+**Última atualização deste documento - 04/10/2022**
 
 Indice de perguntas:
 
@@ -41,6 +41,8 @@ Indice de perguntas:
 * [Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#quando-o-expediente-da-cozinha-acabar-gostaria-de-ajudar-na-obra-da-reforma-posso-fazer-isso-tamb%C3%A9m)
 
 * [Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#meu-c%C3%B4njuge-filhoa-parente-ou-amigoa-entende-muito-de-cozinha-e-gostaria-muito-de-ajudar-posso-lev%C3%A1-lo-junto)
+
+* [Quero ajudar na obra mesmo, sem ser na cozinha. Posso fazer isso?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#quero-ajudar-na-obra-mesmo-sem-ser-na-cozinha-posso-fazer-isso)
 
 ### Quando começa o arranjo da cozinha?
 >Algumas voluntárias vão começar a partir do dia 06/10/2022.
