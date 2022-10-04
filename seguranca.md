@@ -34,12 +34,19 @@ Seguir as dicas abaixo evitam acidentes!
 >Em caso de cortes com sangramento, higienize o corte, lave, passe uma gaze ou pano limpo e pressione o local de sangramento.
 Se o corte for muito grave ou extenso com sangramento, procure atendimento médico imediatamente.
 
-### E se alguém cair na cozinha?
+# E SE ALGUÉM CAIR NA COZINHA?
 >Mantenha a calma, não tente levantar rapidamente! Quedas podem ser perigosas, principalmente se bater a cabeça. A segurança é mais importante
 que qualquer vergonha que possamos sentir por ter caído. Se houver cortes ou machucados, trate essas feridas apropriadamente. A segurança vem sempre
 em primeiro lugar.
 
 >Caso tenha batido a cabeça ao cair, mesmo que levemente, procure imediatamente atendimento médico. Fazer isso vai dar prioridade ao que é mais importante
 a vida do voluntário(a).
+
+# EM CASO DE ACIDENTES OU QUASE ACIDENTES
+>Informe imediatamente um dos responsáveis. A ideia não é punir o(a) voluntário(a) e nunca mais a chamar para obra.
+Queremos melhor o processo ao máximo para evitar os acidentes ou quase acidentes no futuro. Por isso é muito importante
+que eles sejam relatados a um responsável.
+
+Temos certeza de que se todos nós seguirmos de perto essas orientações, vamos conseguir bater a meta de **ZERO ACIDENTES**.
 
 [Voltar para a pagina principal](https://github.com/ibrahim-brumate/arranjo-alimentacao/)
