@@ -115,8 +115,6 @@ a substituição da voluntária que está doente.
 
 ### Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?
 >Pode sim! Precisa apenas ter seus EPI com você, como capacete, óculos, luva, bota apropriada e etc.
-Outros irmãos capacitados com DC50 assinada que desejarem apoiar a **reforma** também poderão vir, principalmente durante a semana, vai ajudar bastante.
-Forneça os dados também deste irmão a um dos responsáveis para que ele possa falar com o coordenador da obra!
 
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
@@ -134,3 +132,8 @@ especificado.
 um dos responsáveis pelo arranjo.
 
 >Agradecemos o apoio e a compreensão de todos.
+
+### Quero ajudar na obra mesmo, sem ser na cozinha. Posso fazer isso?
+>Claro que sim! Mas para isso é preciso ser convidado via Builder Assistant.
+Informe para um dos responsáveis a disponibilidade e enviei junto seu número de vountário(a)
+para que o convite possa ser feito e você participe da obra.
