@@ -6,8 +6,6 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-* Clique [aqui](https://github.com/ibrahim-brumate/arranjo-alimentacao/blob/master/seguranca.md) e veja alguns lembretes importantes para sua segurança!
-
 **Última atualização deste documento - 04/10/2022**
 
 Indice de perguntas:
@@ -37,6 +35,8 @@ Indice de perguntas:
 * [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-n%C3%A3o-preciso-levar-para-a-cozinha)
 
 * [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
+
+* [Devo me preocupar com a segurança na cozinha?]()
 
 * [E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-se-aconteceu-um-acidente-um-corte-queimadura-ou-queda-devo-continuar-cozinhando)
 
@@ -111,6 +111,9 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
 deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele possa providenciar
 a substituição da voluntária que está doente.
+
+### Devo me preocupar com a segurança na cozinha?
+Com certeza, veja [aqui](https://github.com/ibrahim-brumate/arranjo-alimentacao/blob/master/seguranca.md) alguns lembretes de como cozinhar com segurança!
 
 ### E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?
 >É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vem em primeiro lugar. Em situações graves, a pessoa não deve continuar trabalhando mas sim ser levada imediatamente a um hospital ou pronto socorro, principalmente se bater a cabeça.
