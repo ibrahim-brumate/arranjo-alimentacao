@@ -2,7 +2,7 @@
 >Este documento serve para nos lembrar que mesmo cozinhando, precisamos ter a máxima atenção para fazermos isso de uma menira segura!
 Por isso abaixo vão algumas dicas.
 
-# Cuidado com o fogo!
+# CUIDADO COM O FOGO!
 >O fogo tem muitas coisas boas, mas também pode causar acidentes graves.
 Por isso seguir as dicas abaixo evitam esses acidentes!
 
