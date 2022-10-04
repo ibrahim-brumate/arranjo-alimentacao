@@ -6,7 +6,7 @@ Por isso abaixo vão algumas dicas.
 >O fogo tem muitas coisas boas, mas também pode causar acidentes graves.
 Por isso seguir as dicas abaixo evitam esses acidentes!
 
-* Panelas cm o cabo sempre para dentro.
+* Panelas com o cabo sempre para dentro.
 * Não coloque panos no fogão.
 * Não use aventais de materiais sintéticos, como por exemplo os de plástico. São altamente inflamáveis.
 * Use roupas de algodão. Em caso de fogo em roupas de materiais sintéticos, eles podem grudar na pele.
