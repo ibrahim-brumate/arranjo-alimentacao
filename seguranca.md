@@ -18,8 +18,28 @@ Deixar correr água corrente sobre a queimadura por 5 minutos.
 
 ### E se alguém estiver em chamas?
 >Mantenha a calma, não corra! Correr pode aumentar a potência da chama além de causar quedas o que agravaria a situação.
-Deite a pessoa no chão e então apague o fogo.
+Deite-se no chão para que alguém consiga apagar o fogo abafando ele ou jogando água.
 
+# CUIDADO COM FACAS OU OBJETOS CORTANTES!
+>Sempre utilize facas e objetos cortantes com prudência. Nunca deixe a pressa passar a frente da segurança.
+Seguir as dicas abaixo evitam acidentes!
 
+* Use facas apropriadas para cada atividade.
+* Tenha cuidado ao guardar e como guardar uma faca.
+* Corte os alimentos sempre em uma tabua.
+* Matenha o ambiente organizado. Água no chão e coisas fora do lugar costumam causar acidentes facilmente.
+* Use sapato fechado que proteja seu pé de quedas de instrumentos cortantes ou panelas pesadas. Botas de segurança com biqueira são recomendadas!
+
+### E se a pessoa se cortou e está sangrando?
+>Em caso de cortes com sangramento, higienize o corte, lave, passe uma gaze ou pano limpo e pressione o local de sangramento.
+Se o corte for muito grave ou extenso com sangramento, procure atendimento médico imediatamente.
+
+### E se alguém cair na cozinha?
+>Mantenha a calma, não tente levantar rapidamente! Quedas podem ser perigosas, principalmente se bater a cabeça. A segurança é mais importante
+que qualquer vergonha que possamos sentir por ter caído. Se houver cortes ou machucados, trate essas feridas apropriadamente. A segurança vem sempre
+em primeiro lugar.
+
+>Caso tenha batido a cabeça ao cair, mesmo que levemente, procure imediatamente atendimento médico. Fazer isso vai dar prioridade ao que é mais importante
+a vida do voluntário(a).
 
 [Voltar para a pagina principal](https://github.com/ibrahim-brumate/arranjo-alimentacao/)
