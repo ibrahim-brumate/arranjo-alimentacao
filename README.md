@@ -133,7 +133,7 @@ pensando em toda a equipe.
 >Todos os pratos são simples. Portanto é bem proável que não haja essa necessidade. Principalmente aos sábados não haverá nenhum pré preparo para próxima terça-feira.
 
 >No entanto, se for um dia de semana, você olhar o cardápio do dia seguinte e tiver que retirar uma carne do congelador e deixar descongelando na geladeira, ou um feijão
-para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis do arranjo da cozinha.
+para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
