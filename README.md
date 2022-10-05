@@ -36,7 +36,7 @@ Indice de perguntas:
 
 * [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-n%C3%A3o-preciso-levar-para-a-cozinha)
 
-* [Haverá uma voluntária para líderar e dizer como as coisas devem ser feitas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-uma-volunt%C3%A1ria-para-l%C3%ADderar-e-dizer-como-as-coisas-devem-ser-feitas)
+* [Haverá uma voluntária designada para líderar e dizer como as coisas devem ser feitas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-uma-volunt%C3%A1ria-para-l%C3%ADderar-e-dizer-como-as-coisas-devem-ser-feitas)
 
 * [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
 
@@ -118,7 +118,7 @@ coordenando esse arranjo, para evitar que haja mais de um doce por semana.
 ### O que eu não preciso levar para a cozinha?
 >Não será necessário levar panos de prato, temperos, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente. Aventais ou roupas sintéticas oferecem risco maior no caso de um incidente com fogo. Por isso, para sua segurança, não use vestimentas feitas de materiais sintéticos.
 
-### Haverá uma voluntária para líderar e dizer como as coisas devem ser feitas?
+### Haverá uma voluntária designada para líderar e dizer como as coisas devem ser feitas?
 >Não! Não existem regras sobre como o arroz ou feijão deverá ser cozido ou temperado. Todo o necessário para que os alimentos sejam preparados estará disponível.
 
 >Claro que entre as voluntárias podem haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, as que precisarem de ajuda pedindo ajuda as mais experientes quando necessário, e que as tarefas possam ser repartidas entre vocês com tranquilidade.
