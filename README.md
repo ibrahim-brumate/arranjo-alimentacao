@@ -38,6 +38,8 @@ Indice de perguntas:
 
 * [Haverá uma voluntária designada para líderar e dizer como as coisas devem ser feitas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-uma-volunt%C3%A1ria-designada-para-l%C3%ADderar-e-dizer-como-as-coisas-devem-ser-feitas)
 
+* [Haverá algum pré preparo na cozinha?]()
+
 * [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
 
 * [Devo me preocupar com a segurança na cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#devo-me-preocupar-com-a-seguran%C3%A7a-na-cozinha)
@@ -126,6 +128,12 @@ pensando em toda a equipe.
 >Não! Não existem regras sobre como o arroz ou feijão deverá ser cozido ou temperado. Todo o necessário para que os alimentos sejam preparados estará disponível.
 
 >Claro que entre as voluntárias podem haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, prestando ajuda sempre que a mesma **for solicitada**. Esperamos que as tarefas possam ser repartidas entre vocês com tranquilidade.
+
+### Haverá algum pré preparo na cozinha?
+>Todos os pratos são simples. Portanto é bem proável que não haja essa necessidade. Principalmente aos sábados não haverá nenhum pré preparo para próxima terça feira.
+
+>No entanto, se for um dia de semana, você olhar o cardápio do dia seguinte e tiver que retirar uma carne do congelador e deixar descongelando na geladeira, ou um feijão
+para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis da cozinha.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
