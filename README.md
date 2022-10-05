@@ -125,7 +125,7 @@ pensando em toda a equipe.
 ### Haverá uma voluntária designada para líderar e dizer como as coisas devem ser feitas?
 >Não! Não existem regras sobre como o arroz ou feijão deverá ser cozido ou temperado. Todo o necessário para que os alimentos sejam preparados estará disponível.
 
->Claro que entre as voluntárias podem haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, as que precisarem de ajuda pedindo ajuda as mais experientes quando necessário, e que as tarefas possam ser repartidas entre vocês com tranquilidade.
+>Claro que entre as voluntárias podem haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, prestando ajuda sempre que a mesma **for solicitada**. Esperamos que as tarefas possam ser repartidas entre vocês com tranquilidade.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
