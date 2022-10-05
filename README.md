@@ -30,7 +30,7 @@ Indice de perguntas:
 
 * [O que vamos cozinhar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-vamos-cozinhar)
 
-* [Como faço se eu desejo levar uma sobremesa diferente para a equipe comer?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#posso-levar-uma-sobremesa-diferente-para-a-equipe-comer)
+* [Como faço se eu desejo levar uma sobremesa diferente para a equipe comer?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-fa%C3%A7o-se-eu-desejo-levar-uma-sobremesa-diferente-para-a-equipe-comer)
 
 * [O que eu preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-preciso-levar-para-a-cozinha)
 
