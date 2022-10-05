@@ -30,11 +30,13 @@ Indice de perguntas:
 
 * [O que vamos cozinhar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-vamos-cozinhar)
 
-* [Posso levar uma sobremesa diferente para a equipe comer?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#posso-levar-uma-sobremesa-diferente-para-a-equipe-comer)
+* [Como faço se eu desejo levar uma sobremesa diferente para a equipe comer?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#posso-levar-uma-sobremesa-diferente-para-a-equipe-comer)
 
 * [O que eu preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-preciso-levar-para-a-cozinha)
 
 * [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-n%C3%A3o-preciso-levar-para-a-cozinha)
+
+* [Haverá uma voluntária para líderar e dizer como as coisas devem ser feitas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-uma-volunt%C3%A1ria-para-l%C3%ADderar-e-dizer-como-as-coisas-devem-ser-feitas)
 
 * [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
 
@@ -103,7 +105,7 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 
 >Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdicios.
 
-### Posso levar uma sobremesa diferente para a equipe comer?
+### Como faço se eu desejo levar uma sobremesa diferente para a equipe comer?
 >Todos os dias no cardápio, haverá uma fruta como opção de sobremesa. Mas **uma vez por semana**, uma das sobremesas pode ser substituida por um doce.
 Por isso se você desejar e puder voluntariamente levar um doce já pronto, poderá falar com um dos responsáveis que vai indicar o responsável que está
 coordenando esse arranjo, para evitar que haja mais de um doce por semana.
