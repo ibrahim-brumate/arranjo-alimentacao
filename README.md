@@ -6,7 +6,7 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-**Última atualização deste documento - 04/10/2022**
+**Última atualização deste documento - 05/10/2022**
 
 Indice de perguntas:
 
@@ -29,6 +29,8 @@ Indice de perguntas:
 * [E as voluntárias, vão almoçar aonde?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-as-volunt%C3%A1rias-v%C3%A3o-almo%C3%A7ar-aonde)
 
 * [O que vamos cozinhar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-vamos-cozinhar)
+
+* [Posso levar uma sobremesa diferente para a equipe comer?]()
 
 * [O que eu preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-preciso-levar-para-a-cozinha)
 
@@ -100,6 +102,12 @@ os irmãos que desejarem jantar se sirvam.
 As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser trazer uma sobremesa docê para os irmãos, feita em casa, não há problema.
 
 >Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdicios.
+
+### Posso levar uma sobremesa diferente para a equipe comer?
+>Todos os dias no cardápio, haverá uma fruta como opção de sobremesa. Mas **uma vez por semana**, uma das sobremesas pode ser substituida por um doce.
+Por isso se você desejar e puder voluntariamente levar um doce já pronto, poderá falar com um dos responsáveis que vai indicar o responsável que está
+coordenando esse arranjo.
+Agradecemos desde já o amor e a boa vontade de vocês.
 
 ### O que eu preciso levar para a cozinha?
 >Toucas, luvas, botas, aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
