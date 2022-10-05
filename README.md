@@ -106,8 +106,9 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 ### Posso levar uma sobremesa diferente para a equipe comer?
 >Todos os dias no cardápio, haverá uma fruta como opção de sobremesa. Mas **uma vez por semana**, uma das sobremesas pode ser substituida por um doce.
 Por isso se você desejar e puder voluntariamente levar um doce já pronto, poderá falar com um dos responsáveis que vai indicar o responsável que está
-coordenando esse arranjo.
-Agradecemos desde já o amor e a boa vontade de vocês.
+coordenando esse arranjo, para evitar que haja mais de um doce por semana.
+
+>Agradecemos desde já o amor, a compreensão e a boa vontade de vocês.
 
 ### O que eu preciso levar para a cozinha?
 >Toucas, luvas, botas, aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
