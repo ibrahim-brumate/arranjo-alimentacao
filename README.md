@@ -130,10 +130,10 @@ pensando em toda a equipe.
 >Claro que entre as voluntárias podem haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, prestando ajuda sempre que a mesma **for solicitada**. Esperamos que as tarefas possam ser repartidas entre vocês com tranquilidade.
 
 ### Haverá algum pré preparo na cozinha?
->Todos os pratos são simples. Portanto é bem proável que não haja essa necessidade. Principalmente aos sábados não haverá nenhum pré preparo para próxima terça feira.
+>Todos os pratos são simples. Portanto é bem proável que não haja essa necessidade. Principalmente aos sábados não haverá nenhum pré preparo para próxima terça-feira.
 
 >No entanto, se for um dia de semana, você olhar o cardápio do dia seguinte e tiver que retirar uma carne do congelador e deixar descongelando na geladeira, ou um feijão
-para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis da cozinha.
+para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis do arranjo da cozinha.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
