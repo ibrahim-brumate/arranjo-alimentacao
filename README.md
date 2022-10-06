@@ -170,5 +170,6 @@ um dos responsáveis pelo arranjo.
 
 ### Quero ajudar na obra mesmo, sem ser na cozinha. Posso fazer isso?
 >Claro que sim! Mas para isso é preciso ser convidado via Builder Assistant.
+É necessário ter a DC50 assinada e estar com os cursos de segurança recentes em dia.
 Informe para um dos responsáveis a sua disponibilidade e envie junto seu número de voluntário(a)
 para que o convite possa ser feito e você participe da obra!
