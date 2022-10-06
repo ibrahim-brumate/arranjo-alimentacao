@@ -144,9 +144,9 @@ a substituição da voluntária que está doente.
 Com certeza, veja [aqui](https://github.com/ibrahim-brumate/arranjo-alimentacao/blob/master/seguranca.md) alguns lembretes de como cozinhar com segurança!
 
 ### E se aconteceu um acidente, um corte, queimadura ou queda, devo continuar cozinhando?
->É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vem em primeiro lugar. Em situações graves, a pessoa não deve continuar trabalhando mas sim procurar atendimento médico imediatamente, principalmente se bater a cabeça.
+>É elogiável a preocupação das voluntárias com este assunto, entretanto precisamos sempre usar o bom senso. No caso de quedas, queimaduras, cortes profundos, ou alguém bater a cabeça, a segurança e a vida vêm em primeiro lugar. Em situações graves, a pessoa não deve continuar trabalhando mas sim procurar atendimento médico imediatamente, principalmente se bater a cabeça.
 
->Também todos os acidentes ou *quase* acidentes precisam ser relatados a um dos responsáveis, não visando penalisar a voluntária, mas sim melhorar o processo de segurança na cozinha.
+>Também todos os acidentes ou *quase* acidentes precisam ser relatados a um dos responsáveis, não visando penalizar a voluntária, mas sim melhorar o processo de segurança na cozinha.
 
 ### Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?
 >Pode sim! Precisa apenas ter seus EPI com você, como capacete, óculos, luva, bota apropriada e etc. Dai é só ir pra obra ajudar.
