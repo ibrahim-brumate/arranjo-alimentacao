@@ -115,7 +115,7 @@ coordenando esse arranjo, para evitar que haja mais de um doce por semana.
 >Agradecemos desde já o amor, a compreensão e a boa vontade de vocês.
 
 ### O que eu preciso levar para a cozinha?
->Toucas, luvas, botas, aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais avontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
+>Toucas, luvas, botas, aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais à-vontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
 
 ### O que eu não preciso levar para a cozinha?
 >Não será necessário levar panos de prato, temperos, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente. Mesmo que não tenha o alecrim ou a salsinha que você pode estar acostumada a usar quando cozinha, temos certeza que a comida será preparada com
