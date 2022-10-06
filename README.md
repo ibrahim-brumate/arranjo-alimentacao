@@ -14,7 +14,7 @@ Indice de perguntas:
 
 * [Qual é o horário de funcionamento da cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#qual-%C3%A9-o-hor%C3%A1rio-de-funcionamento-da-cozinha)
 
-* [Aonde fica essa cozinha? Tem transporte público por perto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#aonde-fica-essa-cozinha-tem-transporte-p%C3%BAblico-por-perto)
+* [Onde fica essa cozinha? Tem transporte público por perto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#onde-fica-essa-cozinha-tem-transporte-p%C3%BAblico-por-perto)
 
 * [Vou precisar participar da cozinha toda semana?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#vou-precisar-participar-da-cozinha-toda-semana)
 
@@ -66,8 +66,8 @@ Indice de perguntas:
 
 >Se por motivo de força maior não puder comparecer no dia escalado pedimos a gentileza de **se for possível** informar com antecedência que não poderá comparecer no dia designado.
 
-### Aonde fica essa cozinha? Tem transporte público por perto?
->A cozinha fica no bairro *Vila Firmiano Pinto* próximo ao metrô *Alto do Ipiranga*.
+### Onde fica essa cozinha? Tem transporte público por perto?
+>A cozinha fica no bairro **Vila Firmino Pinto** próximo ao metrô **Alto do Ipiranga**.
 
 >O endereço correto será informado no grupo do WhatsApp.
 
