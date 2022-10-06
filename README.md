@@ -136,7 +136,7 @@ pensando em toda a equipe.
 para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
->Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária *NÃO*
+>Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária **NÃO**
 deve ir a obra. Avise por gentileza um dos irmãos responsáveis para que ele possa providenciar
 a substituição da voluntária que está doente.
 
