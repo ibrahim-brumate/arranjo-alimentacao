@@ -74,7 +74,7 @@ Indice de perguntas:
 >Dúvidas basta falar com um dos responsáveis pelo arranjo.
 
 ### Vou precisar participar da cozinha toda semana?
->Não! Convidamos varias voluntárias justamente para não ficar difícil dar apoio.
+>Não! Convidamos várias voluntárias justamente para não ficar difícil dar apoio.
 
 >Por isso a maioria de vocês vai trabalhar semana sim semana não, salvo datas em que temos poucas voluntárias como no meio da semana, ou nos dias em que temos muitas voluntárias como no sábado.
 
