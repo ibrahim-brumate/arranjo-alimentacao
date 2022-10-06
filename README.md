@@ -26,7 +26,7 @@ Indice de perguntas:
 
 * [Que refeições serão servidas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#que-refei%C3%A7%C3%B5es-ser%C3%A3o-servidas)
 
-* [E as voluntárias, vão almoçar aonde?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-as-volunt%C3%A1rias-v%C3%A3o-almo%C3%A7ar-aonde)
+* [E as voluntárias, vão almoçar onde?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#e-as-volunt%C3%A1rias-v%C3%A3o-almo%C3%A7ar-onde)
 
 * [O que vamos cozinhar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-vamos-cozinhar)
 
@@ -98,14 +98,14 @@ os irmãos que desejarem jantar se sirvam.
 
 >Depois que todo o almoço for servido, a cozinha precisa ser limpa.
 
-### E as voluntárias, vão almoçar aonde?
+### E as voluntárias, vão almoçar onde?
 >Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
 
 ### O que vamos cozinhar?
 >Não se preocupe com isso. O menu do dia bem como os ingredientes para fazê-lo serão fornecidos a vocês para que possam preparar com amor e carinho.
-As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser trazer uma sobremesa docê para os irmãos, feita em casa, não há problema.
+As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser trazer uma sobremesa doce para os irmãos, feita em casa, não há problema.
 
->Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdicios.
+>Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdícios.
 
 ### Como faço se eu desejo levar uma sobremesa diferente para a equipe comer?
 >Todos os dias no cardápio, haverá uma fruta como opção de sobremesa. Mas **uma vez por semana**, uma das sobremesas pode ser substituida por um doce.
