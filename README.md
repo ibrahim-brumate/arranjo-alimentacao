@@ -127,10 +127,10 @@ pensando em toda a equipe.
 ### Haverá uma voluntária designada para liderar e dizer como as coisas devem ser feitas?
 >Não! Não existem regras sobre como o arroz ou feijão deverá ser cozido ou temperado. Todo o necessário para que os alimentos sejam preparados estará disponível.
 
->Claro que entre as voluntárias podem haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, prestando ajuda sempre que a mesma **for solicitada**. Esperamos que as tarefas possam ser repartidas entre vocês com tranquilidade.
+>Claro que entre as voluntárias pode haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, prestando ajuda sempre que ela **for solicitada**. Esperamos que as tarefas possam ser repartidas entre vocês com tranquilidade.
 
-### Haverá algum pré preparo na cozinha?
->Todos os pratos são relativamente simples. Portanto é bem provável que não haja essa necessidade. Principalmente aos sábados não haverá nenhum pré preparo para próxima terça-feira.
+### Haverá algum pré-preparo na cozinha?
+>Todos os pratos são relativamente simples. Portanto é bem provável que não haja essa necessidade. Principalmente aos sábados não haverá nenhum pré-preparo para próxima terça-feira.
 
 >No entanto, se for um dia de semana, você olhar o cardápio do dia seguinte e tiver que retirar uma carne do congelador e deixar descongelando na geladeira, ou um feijão
 para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis.
