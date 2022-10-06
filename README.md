@@ -149,7 +149,7 @@ Com certeza, veja [aqui](https://github.com/ibrahim-brumate/arranjo-alimentacao/
 >Também todos os acidentes ou *quase* acidentes precisam ser relatados a um dos responsáveis, não visando penalizar a voluntária, mas sim melhorar o processo de segurança na cozinha.
 
 ### Quando o expediente da cozinha acabar gostaria de ajudar na obra da reforma. Posso fazer isso também?
->Pode sim! Precisa apenas ter seus EPI com você, como capacete, óculos, luva, bota apropriada e etc. Dai é só ir pra obra ajudar.
+>Pode sim! Precisa apenas ter seus EPI com você, como capacete, óculos, luva, bota apropriada etc. Daí é só ir para a obra ajudar.
 
 ### Meu cônjuge, filho(a), parente ou amigo(a) entende muito de cozinha e gostaria muito de ajudar! Posso levá-lo junto?
 >Ficamos muito felizes de saber que há tantos voluntários(as) dispostos e
@@ -170,5 +170,5 @@ um dos responsáveis pelo arranjo.
 
 ### Quero ajudar na obra mesmo, sem ser na cozinha. Posso fazer isso?
 >Claro que sim! Mas para isso é preciso ser convidado via Builder Assistant.
-Informe para um dos responsáveis a sua disponibilidade e envie junto seu número de vountário(a)
+Informe para um dos responsáveis a sua disponibilidade e envie junto seu número de voluntário(a)
 para que o convite possa ser feito e você participe da obra!
