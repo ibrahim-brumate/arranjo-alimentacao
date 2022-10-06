@@ -36,7 +36,7 @@ Indice de perguntas:
 
 * [O que eu não preciso levar para a cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#o-que-eu-n%C3%A3o-preciso-levar-para-a-cozinha)
 
-* [Haverá uma voluntária designada para líderar e dizer como as coisas devem ser feitas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-uma-volunt%C3%A1ria-designada-para-l%C3%ADderar-e-dizer-como-as-coisas-devem-ser-feitas)
+* [Haverá uma voluntária designada para liderar e dizer como as coisas devem ser feitas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-uma-volunt%C3%A1ria-designada-para-liderar-e-dizer-como-as-coisas-devem-ser-feitas)
 
 * [Haverá algum pré preparo na cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-algum-pr%C3%A9-preparo-na-cozinha)
 
