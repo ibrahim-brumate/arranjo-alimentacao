@@ -108,7 +108,7 @@ As sobremesas normalmente são frutas, mas vez por outra, se alguém quiser traz
 >Também haverá tabelas informativas para ajudar a cozinhar a quantidade correta de comida e evitar desperdícios.
 
 ### Como faço se eu desejo levar uma sobremesa diferente para a equipe comer?
->Todos os dias no cardápio, haverá uma fruta como opção de sobremesa. Mas **uma vez por semana**, uma das sobremesas pode ser substituida por um doce.
+>Todos os dias no cardápio, haverá uma fruta como opção de sobremesa. Mas **uma vez por semana**, uma das sobremesas pode ser substituída por um doce.
 Por isso se você desejar e puder voluntariamente levar um doce já pronto, poderá falar com um dos responsáveis que vai indicar o responsável que está
 coordenando esse arranjo, para evitar que haja mais de um doce por semana.
 
