@@ -118,13 +118,13 @@ coordenando esse arranjo, para evitar que haja mais de um doce por semana.
 >Toucas, luvas, botas, aventais de tecido e outros itens de uso pessoal serão necessários. Por uma questão de segurança e praticidade é recomendável que o voluntário leve seus próprios itens pessoais, pois cada um deles pode existir de material e tamanhos diferentes. Assim todos estarão mais à-vontade. Teremos alguns aventais e luvas disponíveis caso alguém esqueça de levar.
 
 ### O que eu não preciso levar para a cozinha?
->Não será necessário levar panos de prato, temperos, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente. Mesmo que não tenha o alecrim ou a salsinha que você pode estar acostumada a usar quando cozinha, temos certeza que a comida será preparada com
+>Não será necessário levar panos de prato, temperos, talheres ou panelas para cozinhar a comida. A cozinha estará equipada para que a comida possa ser preparada tranquilamente. Mesmo que não tenha o alecrim ou a salsinha que você pode estar acostumada a usar quando cozinha, temos certeza de que a comida será preparada com
 muito amor e com o que estiver disponível. Assim também garantimos que todos os voluntários vão apreciar a comida, visto que o que foi comprado já foi previamente
 pensando em toda a equipe.
 
 >Aventais ou roupas sintéticas oferecem risco maior no caso de um incidente com fogo. Por isso, para sua segurança, não use vestimentas feitas de materiais sintéticos.
 
-### Haverá uma voluntária designada para líderar e dizer como as coisas devem ser feitas?
+### Haverá uma voluntária designada para liderar e dizer como as coisas devem ser feitas?
 >Não! Não existem regras sobre como o arroz ou feijão deverá ser cozido ou temperado. Todo o necessário para que os alimentos sejam preparados estará disponível.
 
 >Claro que entre as voluntárias podem haver mais ou menos experientes e até mesmo todas serem muito experientes. Esperamos que pela madureza, as voluntárias se entendam num espírito de união e que possam colaborar entre si, prestando ajuda sempre que a mesma **for solicitada**. Esperamos que as tarefas possam ser repartidas entre vocês com tranquilidade.
