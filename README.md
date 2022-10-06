@@ -38,7 +38,7 @@ Indice de perguntas:
 
 * [Haverá uma voluntária designada para liderar e dizer como as coisas devem ser feitas?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-uma-volunt%C3%A1ria-designada-para-liderar-e-dizer-como-as-coisas-devem-ser-feitas)
 
-* [Haverá algum pré preparo na cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-algum-pr%C3%A9-preparo-na-cozinha)
+* [Haverá algum pré-preparo na cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-algum-pr%C3%A9-preparo-na-cozinha)
 
 * [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
 
