@@ -67,7 +67,7 @@ Indice de perguntas:
 >Se por motivo de força maior não puder comparecer no dia escalado pedimos a gentileza de **se for possível** informar com antecedência que não poderá comparecer no dia designado.
 
 ### Onde fica essa cozinha? Tem transporte público por perto?
->A cozinha fica no bairro **Vila Firmino Pinto** próximo ao metrô **Alto do Ipiranga**.
+>A cozinha fica no bairro **Vila Firmiano Pinto** próximo ao metrô **Alto do Ipiranga**.
 
 >O endereço correto será informado no grupo do WhatsApp.
 
