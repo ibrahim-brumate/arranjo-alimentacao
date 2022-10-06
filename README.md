@@ -55,7 +55,7 @@ Indice de perguntas:
 ### Quando começa o arranjo da cozinha?
 >Algumas voluntárias vão começar a partir do dia 06/10/2022.
 
->Outra turma de voluntárias vão começar a partir do dia 11/10/2022.
+>Outra turma de voluntárias vai começar a partir do dia 11/10/2022.
 
 >Uma planilha com as designações será enviada no grupo do WhatsApp.
 
