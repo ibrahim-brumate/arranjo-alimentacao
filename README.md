@@ -6,7 +6,7 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-**Última atualização deste documento - 05/10/2022**
+**Última atualização deste documento - 06/10/2022**
 
 Indice de perguntas:
 
@@ -93,7 +93,7 @@ Indice de perguntas:
 
 ### Que refeições serão servidas?
 >Foi previsto servir o almoço as 12:00. O que sobrar do almoço vai ficar de marmita para que os irmãos da construção que desejarem jantem.
-Será uma média de 17 a 20 marmitas prontas até as 11:00 para que 12:00 o almoço possa ser servido. E 10 Marmitas para ficar na geladeira e
+Será uma média de 17 a 20 marmitas prontas até as 11:00 para que 12:00 o almoço possa ser servido. E 5 Marmitas para ficar na geladeira e
 os irmãos que desejarem jantar se sirvam.
 
 >Depois que todo o almoço for servido, a cozinha precisa ser limpa.
