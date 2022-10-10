@@ -6,7 +6,7 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-**Última atualização deste documento - 06/10/2022**
+**Última atualização deste documento - 10/10/2022**
 
 Indice de perguntas:
 
@@ -14,7 +14,7 @@ Indice de perguntas:
 
 * [Qual é o horário de funcionamento da cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#qual-%C3%A9-o-hor%C3%A1rio-de-funcionamento-da-cozinha)
 
-* [Onde fica essa cozinha? Tem transporte público por perto?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#onde-fica-essa-cozinha-tem-transporte-p%C3%BAblico-por-perto)
+* [Onde fica essa cozinha? Tem transporte público por perto? Tem onde estacionar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#onde-fica-essa-cozinha-tem-transporte-p%C3%BAblico-por-perto)
 
 * [Vou precisar participar da cozinha toda semana?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#vou-precisar-participar-da-cozinha-toda-semana)
 
@@ -66,10 +66,12 @@ Indice de perguntas:
 
 >Se por motivo de força maior não puder comparecer no dia escalado pedimos a gentileza de **se for possível** informar com antecedência que não poderá comparecer no dia designado.
 
-### Onde fica essa cozinha? Tem transporte público por perto?
+### Onde fica essa cozinha? Tem transporte público por perto? Tem onde estacionar?
 >A cozinha fica no bairro **Vila Firmiano Pinto** próximo ao metrô **Alto do Ipiranga**.
 
 >O endereço correto será informado no grupo do WhatsApp.
+
+>Não temos estacionamento conveniado ou vagas especificas reservadas. Como é uma rua pequena, se vier de carro teria de encontrar um local na rua mesmo para estacionar.
 
 >Dúvidas basta falar com um dos responsáveis pelo arranjo.
 
