@@ -69,7 +69,7 @@ Indice de perguntas:
 ### Onde fica essa cozinha? Tem transporte público por perto? Tem onde estacionar?
 >A cozinha fica no bairro **Vila Firmiano Pinto** próximo ao metrô **Alto do Ipiranga**.
 
->O endereço correto será informado no grupo do WhatsApp.
+>O endereço correto será informado no grupo do WhatsApp. Olhar o endereço pelo google maps e google street view pode dar uma boa noção de onde e como é o local.
 
 >Não temos estacionamento conveniado ou vagas especificas reservadas. Como é uma rua pequena, se vier de carro teria de encontrar um local na rua mesmo para estacionar.
 Só pedimos a gentileza de não ser na frente do local, pois há movimentação de caminhões ali devido a obra.
