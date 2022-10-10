@@ -72,6 +72,7 @@ Indice de perguntas:
 >O endereço correto será informado no grupo do WhatsApp.
 
 >Não temos estacionamento conveniado ou vagas especificas reservadas. Como é uma rua pequena, se vier de carro teria de encontrar um local na rua mesmo para estacionar.
+Só pedimos a gentileza de não ser na frente do local, pois há movimentação de caminhões ali devido a obra.
 
 >Dúvidas basta falar com um dos responsáveis pelo arranjo.
 
