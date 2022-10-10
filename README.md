@@ -14,7 +14,7 @@ Indice de perguntas:
 
 * [Qual é o horário de funcionamento da cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#qual-%C3%A9-o-hor%C3%A1rio-de-funcionamento-da-cozinha)
 
-* [Onde fica essa cozinha? Tem transporte público por perto? Tem onde estacionar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#onde-fica-essa-cozinha-tem-transporte-p%C3%BAblico-por-perto)
+* [Onde fica essa cozinha? Tem transporte público por perto? Tem onde estacionar?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#onde-fica-essa-cozinha-tem-transporte-p%C3%BAblico-por-perto-tem-onde-estacionar)
 
 * [Vou precisar participar da cozinha toda semana?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#vou-precisar-participar-da-cozinha-toda-semana)
 
