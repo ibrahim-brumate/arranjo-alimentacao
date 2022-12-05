@@ -6,7 +6,7 @@
 
 >Essas informações podem mudar, por isso periódicamente de uma olhada neste documento.
 
-**Última atualização deste documento - 10/10/2022**
+**Última atualização deste documento - 05/12/2022**
 
 Indice de perguntas:
 
