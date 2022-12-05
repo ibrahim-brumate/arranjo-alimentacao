@@ -95,11 +95,11 @@ Só pedimos a gentileza de não ser na frente do local, pois há movimentação 
 >Foi previsto comida para a equipe de construção que no momento é de 17 a 20 pessoas.
 
 ### Que refeições serão servidas?
->Foi previsto servir o almoço as 12:00. O que sobrar do almoço vai ficar de marmita para que os irmãos da construção que desejarem jantem.
-Será uma média de 17 a 20 marmitas prontas até as 11:00 para que 12:00 o almoço possa ser servido. E 5 Marmitas para ficar na geladeira e
-os irmãos que desejarem jantar se sirvam.
+>Foi previsto servir o almoço as 12:00. Por volta das 12:30 será informado se haverá ou não a necessidade de fazer marmitas para janta.
+Será uma média de 15 marmitas prontas até as 11:30 para que 12:00 o almoço possa ser servido. Se pedirem marmitas para a janta, as mesmas
+serão guardadas na geladeira da lavanderia, com os nomes das pessoas que pediram anotados na marmita. 
 
->Depois que todo o almoço for servido, a cozinha precisa ser limpa.
+>Depois que todo o almoço for servido, a cozinha precisa ser limpa, isso inclui também as lixeiras, para evitar mal cheiro.
 
 ### E as voluntárias, vão almoçar onde?
 >Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
