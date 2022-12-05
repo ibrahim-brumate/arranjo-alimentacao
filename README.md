@@ -92,7 +92,7 @@ Só pedimos a gentileza de não ser na frente do local, pois há movimentação 
 >Não, se você já avisou um dos responsáveis os dias que pode participar do arranjo, já sabemos que dias podemos contar com seu apoio.
 
 ### Precisamos cozinhar para quantas pessoas?
->Foi previsto comida para a equipe de construção que no momento é de 17 a 20 pessoas.
+>Foi previsto comida para a equipe de construção que no momento é de 15 a 17 pessoas.
 
 ### Que refeições serão servidas?
 >Foi previsto servir o almoço as 12:00. Por volta das 12:30 será informado se haverá ou não a necessidade de fazer marmitas para janta.
