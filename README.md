@@ -40,6 +40,8 @@ Indice de perguntas:
 
 * [Haverá algum pré-preparo na cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#haver%C3%A1-algum-pr%C3%A9-preparo-na-cozinha)
 
+* [Como efetuar a limpeza da cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#como-efetuar-a-limpeza-da-cozinha)
+
 * [Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#se-eu-estiver-com-sintomas-de-gripe-ou-resfriado-devo-ir-para-minha-designa%C3%A7%C3%A3o)
 
 * [Devo me preocupar com a segurança na cozinha?](https://github.com/ibrahim-brumate/arranjo-alimentacao/#devo-me-preocupar-com-a-seguran%C3%A7a-na-cozinha)
