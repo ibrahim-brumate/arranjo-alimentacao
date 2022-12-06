@@ -99,8 +99,6 @@ Só pedimos a gentileza de não ser na frente do local, pois há movimentação 
 Será uma média de 15 marmitas prontas até as 11:30 para que 12:00 o almoço possa ser servido. Se pedirem marmitas para a janta, as mesmas
 serão guardadas na geladeira da lavanderia, com os nomes das pessoas que pediram anotados na marmita. 
 
->Depois que todo o almoço for servido, a cozinha precisa ser limpa, isso inclui também as lixeiras, para evitar mal cheiro.
-
 ### E as voluntárias, vão almoçar onde?
 >Elas poderão almoçar no local, depois de terem preparado as marmitas da equipe. Seu almoço será o mesmo que o da equipe de construção.
 
@@ -137,6 +135,13 @@ pensando em toda a equipe.
 
 >No entanto, se for um dia de semana, você olhar o cardápio do dia seguinte e tiver que retirar uma carne do congelador e deixar descongelando na geladeira, ou um feijão
 para deixar de molho, coisas simples, podem sim ser feitas para ajudar as voluntárias do dia seguinte. Se estiver em dúvida, poderá falar com um dos responsáveis.
+
+### Como efetuar a limpeza da cozinha?
+>Depois que todo o almoço for servido, a cozinha precisa ser limpa, isso inclui também as lixeiras, para evitar mal cheiro.
+
+>O saco de lixo da lixeira maior ao lado de fora, deve ser recolhido toda **quarta** e **sexta-feira**, deixando a lixeira limpa e lavada.
+>Varrer o chão da cozinha, bem como passar um pano humido vai garantir que ela este sempre limpa para o próximo dia.
+>Deixar toda a louça lavada, seca, e organizada para o próximo dia também será de grande ajuda.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
 >Agradecemos o empenho e o desejo em participar, mas se este for o caso a voluntária **NÃO**
