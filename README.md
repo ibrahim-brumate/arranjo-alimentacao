@@ -141,8 +141,8 @@ para deixar de molho, coisas simples, podem sim ser feitas para ajudar as volunt
 ### Como efetuar a limpeza da cozinha?
 >Depois que todo o almoço for servido, a cozinha precisa ser limpa, isso inclui também as lixeiras, para evitar mal cheiro.
 
->O saco de lixo da lixeira maior ao lado de fora, deve ser recolhido toda **quarta** e **sexta-feira**, deixando a lixeira limpa e lavada.
->Varrer o chão da cozinha, bem como passar um pano humido vai garantir que ela este sempre limpa para o próximo dia.
+>O saco de lixo da lixeira maior ao lado de fora, deve ser recolhido toda **quarta** e **sexta-feira**, deixando a lixeira limpa e lavada.  
+>Varrer o chão da cozinha, bem como passar um pano humido vai garantir que ela este sempre limpa para o próximo dia.  
 >Deixar toda a louça lavada, seca, e organizada para o próximo dia também será de grande ajuda.
 
 ### Se eu estiver com sintomas de gripe ou resfriado, devo ir para minha designação?
